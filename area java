@@ -1,0 +1,28 @@
+import java.io.*;
+public class tanku
+{
+ public static void main (String []args)
+ {
+   int num=3
+   functionobj=new function();
+   obj.fact(num)
+   onj.square(num)
+   }
+   }
+   class function
+   {
+   void fact(int n)
+   {
+   int f=1;
+   for int i=1;i<=n;i++
+   f*=1;
+   systemoutprintln("factorial="+f)
+   }
+   void square=n*n
+   syatem.out.println("square="+square)
+   }
+   }
+   
+   
+   
+   
